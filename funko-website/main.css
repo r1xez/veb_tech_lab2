@@ -27,6 +27,13 @@ body {
   padding: 15px;
 }
 
+#koshik {
+  margin-left: 10px; 
+}
+
+
+
+
 #header a {
   color: white;
   margin: 0 10px;
@@ -53,3 +60,4 @@ body {
   text-align: center;
   padding: 10px;
 }
+
